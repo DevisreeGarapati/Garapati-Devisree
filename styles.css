@@ -74,6 +74,7 @@ span{
 .about heading{
     color:crimson;
     font-size:40px;
+    bottom:30px;
 }
 .about p{
     font-size:30px;
